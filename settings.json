@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFKbot24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ydftgdr.aternos.",
+    "ip": "ydftgdr.aternos.me",
     "port": 50204,
     "version": "",
     "try-creative": false
